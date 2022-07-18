@@ -1,4 +1,4 @@
-/**
+package chapter2; /**
  * -Xms20m -Xmx20m -XX:HeapDumpOutOfMemoryError
  */
 
